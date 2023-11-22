@@ -27,8 +27,8 @@
 
 ## 📬 Let's Connect
 
-- 👨‍💼 [LinkedIn](https://www.linkedin.com/in/m-aitabdenni/)
-- 📧 [Email](mailto:mohamed.ait.abdenni@gmail.com)
+- 👨‍💼 **[LinkedIn](https://www.linkedin.com/in/m-aitabdenni/)**
+- 📧 **[Email](mailto:mohamed.ait.abdenni@gmail.com)**
 
 
 <!---
