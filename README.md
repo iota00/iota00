@@ -1,6 +1,6 @@
 # Hi there, I'm AIT ABDENNI Mohamed! 👋
 
-* 🎓 I'm a final-year student at ENSA Marrakech, specializing in Network and Telecommunications.
+* 🎓 I'm a Network and Telecommunications Engineer.
 * 💡 My areas of interest:
 	- 🛡️ Cybersecurity.
 	- ☁️ Cloud Computing.
@@ -29,9 +29,3 @@
 
 - 👨‍💼 **[LinkedIn](https://www.linkedin.com/in/m-aitabdenni/)**
 - 📧 **[Email](mailto:mohamed.ait.abdenni@gmail.com)**
-
-
-<!---
-m-abdenni/m-abdenni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
